@@ -1,0 +1,26 @@
+body {
+    background-color: grey;
+}
+
+
+p {
+    color: green;
+    font-family: "cosmic sans";
+    text-indent: 10px;
+    margin-left: 10px;
+}
+
+div {
+    background-color: #facade;
+    width: 1000px;
+    min-height: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: solid 5px #444444;
+    font-size: 20px;
+}
+
+div2 {
+    background-color: red;
+    font-size: 20px;
+}
