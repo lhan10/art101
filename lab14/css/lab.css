@@ -1,0 +1,9 @@
+div {
+  font-family: "cosmic sans";
+  background-color:  #facade;
+  width: 700px;
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;
+  border-radius:10px;
+}
