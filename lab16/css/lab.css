@@ -1,0 +1,31 @@
+#title {
+  font-family: "cosmic sans";
+  background-color:  #03fce8;
+  width: 700px;
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;
+  border-radius:10px;
+}
+
+
+div {
+  font-family: "cosmic sans";
+  background-color:  #a5fc03;
+  width: 700px;
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;
+  border-radius:10px;
+}
+
+
+#output {
+  font-family: "cosmic sans";
+  background-color:  #fcba03;
+  width: 700px;
+  padding: 20px;
+  margin: 20px;
+  font-size: 20px;
+  border-radius:10px;
+}
